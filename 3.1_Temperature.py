@@ -13,13 +13,16 @@ In: -40  Out: ??? Please tell me what this output is!
 
 '''
 
-print("this is a program that converts fahrenheit to celsius")
-
-a=float(input("please input the temperature in fahreheit "))
-
-b=(a-32)*5/9
-
-print("the temperature in celsius is",b,)
 
 
-#(32°F − 32) × 5/9 = °C
+
+# print("this is a program that converts fahrenheit to celsius")
+#
+# a=float(input("please input the temperature in fahreheit "))
+#
+# b=(a-32)*5/9
+#
+# print("the temperature in celsius is",b,)
+#
+#
+# #(32°F − 32) × 5/9 = °C
